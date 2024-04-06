@@ -60,8 +60,3 @@ contract Kala {
         totalSupply_ = totalSupply_ - (amount * calculateDecimals());
     }
 }
-
-// 0x0000000000000000000000000000000000000000
-
-
-// 100_000_000_000_000_000_000
